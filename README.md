@@ -29,12 +29,7 @@ WEB-WAS-DB 연동 \
 ## 🛠 사용 기술
 
 ### OS 
-![image](https://github.com/angelhaon/Gachi-Project/assets/152121037/35c22789-7688-44f0-b75e-80a4b800a74a)
-
-
-
-
-
+![amazon linux](https://github.com/angelhaon/Gachi-Project/assets/152121037/a6c4f42f-b087-4934-ac6b-0c85ce430932)
 
 ### Database 
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://camo.githubusercontent.com/0efa8fcd6f09597585ca1b0acbd5f64e77cae7c209143ae65eb517374df7daeb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d7973716c2d3434373941313f7374796c653d666c61742d737175617265266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465)
