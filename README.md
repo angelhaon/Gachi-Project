@@ -29,8 +29,7 @@ CI/CD Pipeline 설계 및 구축을 통해 서비스 배포의 자동화 실현 
 ## 🛠 사용 기술
 
 ### OS 
-![amazon linux](https://github.com/angelhaon/Gachi-Project/assets/152121037/af762e99-d1a9-48fb-a8ab-4bfa7cf7ef13)
-
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-FF9E0F?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 
 ### Database 
