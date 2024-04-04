@@ -28,17 +28,32 @@ CI/CD Pipeline 설계 및 구축을 통해 서비스 배포의 자동화 실현 
  
 ## 🛠 사용 기술
 
+### Cloud
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
 ### OS 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-FF9E0F?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-FF9E0F?style=for-the-badge&logo=ubuntu&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ### Database 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Container 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
+
+### Container Orchestration
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+### IaC
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+
+### IDE
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ### CI/CD
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) <img src="https://img.shields.io/badge/Argo-FF9E0F?style=for-the-badge&logo=Argo&logoColor=white">
+
+### Monitoring
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) <img src="https://img.shields.io/badge/Loki-003366?style=for-the-badge&logo=Loki&logoColor=white">![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) <img src="https://img.shields.io/badge/Whatap-A61200?style=for-the-badge&logo=Whatap&logoColor=white">
 
 ### Team Collabolation Tool
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
@@ -53,7 +68,7 @@ CI/CD Pipeline 설계 및 구축을 통해 서비스 배포의 자동화 실현 
 
 ## 📖 상세 내용
 ### Infra Architecture
-![image](https://github.com/JJungeee/So-Mack-Sa/assets/142209884/6d517292-3852-4b08-b8da-04b7143ff1e1)
+![image](https://github.com/angelhaon/Gachi-Project/assets/152121037/e0e52b58-0a8d-4c7c-8eca-e9cec5b75abf)
 ### skill
 ![그림5](https://github.com/JJungeee/So-Mack-Sa/assets/142209884/6624b90d-a35c-4240-aae7-401f666d9ecf)
 ### Web page
