@@ -63,8 +63,8 @@ CI/CD Pipeline 설계 및 구축을 통해 서비스 배포의 자동화 실현 
 
 
 ## 💁‍♂️ 담당 업무
-![image](https://github.com/angelhaon/Gachi-Project/assets/152121037/a5cf7414-b688-46d1-980b-b38df2191986) ![image](https://github.com/angelhaon/Gachi-Project/assets/152121037/076975ad-de95-430a-8e37-17789a74be90) ![image](https://github.com/angelhaon/Gachi-Project/assets/152121037/f4fe6857-3b3c-4ce8-8639-3db2ee775c03)
-![image](https://github.com/angelhaon/Gachi-Project/assets/152121037/e1e3d43d-dbad-4240-a056-e58edcc7183a)
+![image](https://github.com/angelhaon/Gachi-Project/assets/152121037/7e537989-b81d-498d-a45a-ec493ab145fb)
+
 
 
 ## 📖 상세 내용
