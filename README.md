@@ -41,10 +41,10 @@ CI/CD Pipeline 설계 및 구축을 통해 서비스 배포의 자동화 실현 
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) <img src="https://img.shields.io/badge/Argo-FF9E0F?style=for-the-badge&logo=Argo&logoColor=white">
 
 ### Team Collabolation Tool
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://camo.githubusercontent.com/ac8e50ec4dfc3513f4d66c023dcecf106f3d7e2d5ad70da9375cf71bd1987e93/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f74696f6e2d3030303030303f7374796c653d666c61742d737175617265266c6f676f3d4e6f74696f6e266c6f676f436f6c6f723d7768697465) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
 ### Drawing Tool
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://camo.githubusercontent.com/dbdaa692167ef45698b2fdf349b51d3678255d76d835c804221fb7f563304d33/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f44726177696f2d3030303030303f7374796c653d666c61742d737175617265266c6f676f3d44726177696f266c6f676f436f6c6f723d7768697465)
+<img src="https://img.shields.io/badge/Drawio-FF9E0F?style=for-the-badge&logo=Drawio&logoColor=white">
 
 
 ## 💁‍♂️ 담당 업무
