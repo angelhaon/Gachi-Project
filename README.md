@@ -31,13 +31,14 @@ CI/CD Pipeline 설계 및 구축을 통해 서비스 배포의 자동화 실현 
 ### OS 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-FF9E0F?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-
 ### Database 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://camo.githubusercontent.com/0efa8fcd6f09597585ca1b0acbd5f64e77cae7c209143ae65eb517374df7daeb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d7973716c2d3434373941313f7374796c653d666c61742d737175617265266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Container 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://camo.githubusercontent.com/60bd8f50238e3468fc6d8b54543b9a1e675eb448ddfe22107e013b8964e2f67a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446f636b65722d3234393645443f7374796c653d666c61742d737175617265266c6f676f3d446f636b6572266c6f676f436f6c6f723d7768697465) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
+### CI/CD
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) <img src="https://img.shields.io/badge/Argo-FF9E0F?style=for-the-badge&logo=Argo&logoColor=white">
 
 ### Team Collabolation Tool
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://camo.githubusercontent.com/ac8e50ec4dfc3513f4d66c023dcecf106f3d7e2d5ad70da9375cf71bd1987e93/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f74696f6e2d3030303030303f7374796c653d666c61742d737175617265266c6f676f3d4e6f74696f6e266c6f676f436f6c6f723d7768697465) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
@@ -47,10 +48,7 @@ CI/CD Pipeline 설계 및 구축을 통해 서비스 배포의 자동화 실현 
 
 
 ## 💁‍♂️ 담당 업무
-![image](https://github.com/JJungeee/So-Mack-Sa/assets/142209884/d2d6dba2-b286-499f-aeec-04ba9eb12566)
-![image](https://github.com/JJungeee/So-Mack-Sa/assets/142209884/dd24be06-6b44-449d-bcb4-acb072ade4c4)
-![image](https://github.com/JJungeee/So-Mack-Sa/assets/142209884/2412da4e-1eaf-456a-93ca-ccb7a89605fa)
-![image](https://github.com/JJungeee/So-Mack-Sa/assets/142209884/6c4c4d10-a896-4c6d-a173-e3ad96fe421b)
+
 
 
 ## 📖 상세 내용
