@@ -29,7 +29,8 @@ WEB-WAS-DB 연동 \
 ## 🛠 사용 기술
 
 ### OS 
-![amazon linux](https://github.com/angelhaon/Gachi-Project/assets/152121037/a6c4f42f-b087-4934-ac6b-0c85ce430932) ![ubuntu](https://github.com/angelhaon/Gachi-Project/assets/152121037/ac7f4a93-99e3-43a9-b2d0-bb1c2bf77344)
+![amazon linux](https://github.com/angelhaon/Gachi-Project/assets/152121037/af762e99-d1a9-48fb-a8ab-4bfa7cf7ef13)
+
 
 
 ### Database 
